@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "next-agent": {
+      "command": "npm",
+      "args": ["run", "agent"]
+    }
+  }
+}
